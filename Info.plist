@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIdentifier</key>
+	<string>com.example.siphon</string>
+	<key>CFBundleName</key>
+	<string>siphon</string>
+	<key>NSAudioCaptureUsageDescription</key>
+	<string>siphon records the sound your Mac plays to a WAV file.</string>
+</dict>
+</plist>
